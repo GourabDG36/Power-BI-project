@@ -111,3 +111,4 @@ All datasets were provided in `.csv` format and imported into Power BI for trans
 1. Clone this repository:
    ```bash
    git clone https://github.com/GourabDG36/Power-BI-project.git
+<img width="1446" height="805" alt="final dashboard" src="https://github.com/user-attachments/assets/807f5ce5-5550-43e7-9111-929a1ed62fe1" />
